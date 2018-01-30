@@ -1,1 +1,2 @@
-fdisk -l
+Linux: fdisk -l <external device>
+OSX: fdisk <external device>

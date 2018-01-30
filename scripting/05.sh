@@ -1,1 +1,1 @@
-echo 42
+printf 42
