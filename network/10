@@ -1,0 +1,1 @@
+route -n get slash16.org | grep interface | awk '{ print $2 }'

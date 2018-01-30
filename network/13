@@ -1,0 +1,1 @@
+Using rDNS we see that its a DHCP server, if we had NMAP we could also do a portscan; however, its not installed on these computers

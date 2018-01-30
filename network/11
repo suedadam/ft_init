@@ -1,0 +1,6 @@
+The interface is en0 and the internal IP is 10.112.8.15
+
+e1z2r8p15% INT=`route -n get slash16.org | grep interface | awk '{ print $2 }'`;echo $INT;ifconfig $INT inet | grep inet | awk '{ print $2 }'
+en0
+10.112.8.15
+e1z2r8p15% 
